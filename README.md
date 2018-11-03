@@ -1,7 +1,7 @@
 # mac_config
 
 ### Fast keyboard arrow navigation
-Settings -> Keyboard
+System Preferences -> Keyboard -> ("Keyboard" tab)
   - Key Repeat - All the way fast
   - Delay Until Repeat - ALl the way short
 
